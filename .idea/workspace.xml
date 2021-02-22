@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8956af1-729c-47cf-a0eb-d2e73e2b9012" name="Default Changelist" comment="" />
+    <list default="true" id="c8956af1-729c-47cf-a0eb-d2e73e2b9012" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/custom.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,15 +21,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1leqPWUrOtPXaSOWYiZ9c6I4pft" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="H:/Other/Online course/Udemy - JavaScript Web Projects 20 Projects to Build Your Portfolio/4. Infinity Scroll/9.1 infinite-scroll~/infinite-scroll/index.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="liveEdit" />
@@ -38,17 +49,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607967904997</updated>
-      <workItem from="1607967910167" duration="2797000" />
+      <workItem from="1607967910167" duration="3219000" />
+      <workItem from="1608136919755" duration="1892000" />
+      <workItem from="1608182282680" duration="688000" />
+      <workItem from="1613935383848" duration="71000" />
+      <workItem from="1613936334449" duration="1084000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="184" y="14" key="SettingsEditor" timestamp="1607968102953">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1607968102953" />
   </component>
 </project>
